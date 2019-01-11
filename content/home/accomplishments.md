@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = "I am the listener. I design user-obsessed research projects and listen to the participants in every possible way, with my eyes, ears, and heart. "
+  imageSrc = "https://i.ibb.co/PYJ31m8/listen.jpg"
 
 [[item]]
   title = "Process"
@@ -34,6 +35,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = ""
   description = "I am the translator between users and project teams. I use research as a medium to understand users’ painpoints, demands, and needs. I analyze it and turn it into viable design options."
+  imageSrc = "https://i.ibb.co/4J9bGvh/process.jpg"
   
 [[item]]
   title = "Advocate"
@@ -42,5 +44,6 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = ""
   description = "I am the ambassador of the users in the team. I advocate for them with my presentations and suggestions. I follow up the process with the rest of my team members."
+  imageSrc = "https://i.ibb.co/mbSxSp3/advocate.jpg"
 
 +++
