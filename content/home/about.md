@@ -8,33 +8,33 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+# [interests]
+#   interests = [
+    # "Artificial Intelligence",
+    # "Computational Linguistics",
+    # "Information Retrieval"
+  # ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Interdisciplinary NME Studies "
+  institution = "University of Washington"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "M.A. in Political Science and Int. Relations"
+  institution = "Bogazici University"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.A. in Political Science and Int. Relations"
+  institution = "Bogazici University"
+  year = 2007
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a qualitative user experience researcher. I love spending my life finding and solving problems, improve everyday life and human experiences. UX Research is where my passion for problem solving meets my deep curiosity. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am in the process of completing my dissertation. In the meantime, I conduct research projects for startups.

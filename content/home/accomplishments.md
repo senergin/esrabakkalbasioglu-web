@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Accomplish&shy;ments"
+title = "Research Approach"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,27 +20,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
+  title = "Listen"
+  organization = ""
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = ""
+  description = "I am the listener. I design user-obsessed research projects and listen to the participants in every possible way, with my eyes, ears, and heart. "
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
+  title = "Process"
+  organization = ""
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = ""
+  description = "I am the translator between users and project teams. I use research as a medium to understand users’ painpoints, demands, and needs. I analyze it and turn it into viable design options."
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
+  title = "Advocate"
+  organization = ""
+  certificate_url = ""
   date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_end = ""
+  description = "I am the ambassador of the users in the team. I advocate for them with my presentations and suggestions. I follow up the process with the rest of my team members."
 
 +++
