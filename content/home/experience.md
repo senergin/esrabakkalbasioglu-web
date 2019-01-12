@@ -25,7 +25,13 @@ date_format = "January 2006"
   location = "Seattle, WA"
   date_start = "2018-08-01"
   date_end = ""
-  description = ""
+  description = """
+  *	Working with engineering and design teams to define their needs and concerns.
+  *	Planning and executing in-person and remote usability and other UX research tests.
+  *	Recruiting participants for usability tests, conducting interviews, and leading research.
+  *	Documenting and analyzing analytics and test results.
+  *	Presenting research findings to the client to drive design decisions.
+  """
 
 [[experience]]
   title = "Project Management Intern"
@@ -34,7 +40,12 @@ date_format = "January 2006"
   location = "Bellevue, WA"
   date_start = "2018-06-01"
   date_end = "2018-08-31"
-  description = ""
+  description = """
+  *	Managed projects with technical and business stakeholders and shipped 2 customer onboarding projects.
+  * Changed the team’s project management process by integrating PowerBI data visualization.
+  * Designed and coded an automation system to generate the weekly workload dashboard on Excel, using large dataset from SharePoint.
+  * Organized weekly Business Prioritization and company-wide Feasibility meetings.
+  """
 
 [[experience]]
   title = "Research & Teaching Assistant"
@@ -43,6 +54,13 @@ date_format = "January 2006"
   location = "Seattle, WA"
   date_start = "2011-09-01"
   date_end = ""
-  description = ""
+  description = """
+  * Designed and managed a 3-year ethnographic research project in Israel and Turkey with users and non-users of infrastructure systems.
+  * Expert on mixed methodologies; including participant observation, survey, interview, content analysis, and regression-based analysis. 
+  * Delivered 3 articles, 1 master thesis, 1 dissertation, 18 conference presentations, and public talks.
+  * Collaborated with multiple academics from different departments as a co-instructor and co-author.
+  * Led a team of 8 teaching assistants as the Head T.A. for Jackson School for International Studies at UW.
+  * Designed and taught 2 courses and taught other professors’ courses 11 times.
+  """
   
 +++

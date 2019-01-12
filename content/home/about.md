@@ -35,6 +35,8 @@ weight = 5
 
 # Biography
 
-I am a qualitative user experience researcher. I love spending my life finding and solving problems, improve everyday life and human experiences. UX Research is where my passion for problem solving meets my deep curiosity. 
+I am a User Experience (UX) Researcher and a problem-solver. I currently work with startups and help them to design better products using my research insights.
 
-I am in the process of completing my dissertation. In the meantime, I conduct research projects for startups.
+As a Ph.D. candidate at UW studying Anthropology/Political Science, I have single-handedly conducted various innovative research projects combining qualitative and quantitative methods. I am using the same precise critical thinking on my design research work.
+
+I have a long track record of project management, cross-team collaboration, partner-customer engagement, and ability to translate research to technical and non-technical stakeholders.

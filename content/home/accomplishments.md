@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "I am the translator between users and project teams. I use research as a medium to understand users’ painpoints, demands, and needs. I analyze it and turn it into viable design options."
+  description = "I am the translator between users and project teams. I use research as a medium to understand users’ painpoints, demands, and needs. I analyze the findings and turn them into viable design options."
   imageSrc = "https://i.ibb.co/4J9bGvh/process.jpg"
   
 [[item]]
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-07-01"
   date_end = ""
-  description = "I am the ambassador of the users in the team. I advocate for them with my presentations and suggestions. I follow up the process with the rest of my team members."
+  description = "I am the user ambassador. I advocate for users in my design suggestions. I follow up the process with the design and engineering teams."
   imageSrc = "https://i.ibb.co/mbSxSp3/advocate.jpg"
 
 +++
