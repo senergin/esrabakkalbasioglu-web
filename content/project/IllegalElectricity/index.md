@@ -45,7 +45,8 @@ url_code = ""
 +++
 
 # Infrastructure Research & Strategy
-
+\
+\
 ## Challenges:
 In the Southeastern region of Turkey, illegal electricity use was around 90 percent. Compared to around 15% country average, these figures trigger various questions on distribution and access to infrastructure in the region. In the past couple of years, electricity distribution company introduced new and harsher methods one after the other to stop illegal use of electricity in the region but failed. As my Ph.D. dissertation, I develop an ethnographic research project to understand the how and why people from the region use electricity illegally and develop policy suggestions to decrease high illegal energy consumption in the region.
 \
@@ -58,29 +59,30 @@ To get a snapshot of the composition, satisfaction, and values of electricity us
 The goal of the survey was to get an idea on the general usage trends as well as concerns and criticisms of users about provision of electricity.
 
 **One of the Key Insights:** Participants pointed electricity use in agriculture as be the primary reason of extremely high illegal electricity consumption in the region.
-  
 \
-[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
-![electricity3]
-
+\
+\
 ### 2. Interviews with farmers
 Based on the key insight of the survey, I decided to recruit individual working in agricultural sector for in-depth interviews to get more insights on the problems and their suggestions to reduce illegality. I conducted interviews with more than 20 farmers owning small, mid-size, or large agricultural lands in the region. As illegal access to resources is a rather fragile topic rather than having a direct conversation on their illegal electricity use, I conducted an indirect interview on the subject. Talking about ‘other farmers’ illegal use of electricity’ made my respondents to feel more secure and comfortable to talk about this fragile issue. I asked them about type of crop they cultivate (dry or irrigated), irrigation patterns, any issue they encounter in terms of access to water, if they know anyone using electricity illegally, as well as they taught on the reasons of illegal electricity use in the region and their expectation from the state agents.
 
-**Key Insights:** Even though the majority of illegal use of electricity is caused by the agricultural sector, illegal access is a widespread and long-term pattern in the region.
+**Key Insights:** While most illegal electricity use is for agricultural reasons, illegal access is widespread in both industry and everyday life, and this has been the case for decades.
 
 > "A couple of days ago, someone told me that he did not pay the electricity bill for the last 26 years; he is not subscribed. I said 'where do you live, I want to move in there.'" –Interviewee A
 
-In agricultural sector, farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount. 
+In agricultural sector, farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
 
 > "I spent 15,000 TL to use groundwater for irrigation. I wish there had been no groundwater, for I would not have spent the money. When you do dry farming, if you get crops, you earn money. If you don’t, you will break even. Now with irrigated agriculture, we are always at a negative. They sent me an electricity bill of 8,000 TL. Even the personnel at the company were surprised to see how high my bill was." –Interviewee B
-  
+
+[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
+![electricity3]
 \
+\
+
 ### 3. Interviews with Bureaucrats and Technocrats
 To test the accuracy of their claims against the state institutions, I conducted in-depth interviews with bureaucrats and technocrats located a) in the capital city and b) in the region. Interviewing the names responsible from electricity and irrigation water distribution policies and operations in the region made it possible to test my potential policy suggestions as well.
-  
 \
-[electricity2]: https://i.ibb.co/xg74QpF/2.jpg
-![electricity2]
+\
+\
 
 ### 4. Field Visits
 I visited agricultural areas to learn from farmers how they hook up their illegal electricity connections to the grid system. How they pump water from the canals and underground.
@@ -91,6 +93,11 @@ I also visited the Research and Development Department of the regional electrici
 
 [electricity1]: https://i.ibb.co/s5pBgxt/1.jpg
 ![electricity1]
+
+[electricity2]: https://i.ibb.co/xg74QpF/2.jpg
+![electricity2]
+\
+\
 
 ## Key Findings and Recommendations:
 * A very high percentage of illegal electricity consumed in the Southeastern Anatolia region was consumed by farmers. 

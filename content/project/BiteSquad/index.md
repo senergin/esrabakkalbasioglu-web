@@ -59,16 +59,16 @@ I designed a remote automated usability test for the BiteSquad website on [usert
 
 Participants have been given three different scenarios and asked to complete certain tasks designed based on the concerns and priorities of the BiteSquad design and engineering teams. I also asked them to complete the same tasks on the website of the competitor. All the process was video recorded. I analyzed the recording of the users and prepared a list of key points to be share with my co-researcher and the BiteSquad teams. Based on these initial findings, we made some changes on the tasks of moderated usability test.
 
-[bite1]: https://i.ibb.co/FnyqBFc/1.jpg
+[bite1]: https://i.ibb.co/sjMjjpW/1.jpg
 ![bite1]
 \
-\
+
 ### 2. Moderated Usability Testing
 With the information collected from the automated usability test participants and design and engineering teams’ concerns, together with my co-researcher, we prepared a combined usability and competitive test for the BiteSquad IOS app that was recently developed. During the test, we recoded both voice and phone screen of the participants.
 
 We asked the participants to complete four different tasks including adding items to the cart, removing items from the cart, submit a complaint form, finding a specific food type or cuisine on the BiteSquad mobile app.
 
-[bite2]: https://i.ibb.co/LhHKzy6/2.jpg
+[bite2]: https://i.ibb.co/xDyKRPc/2.jpg
 ![bite2]
 
 **One of the Key Insights:** Users find it hard to remove items from the cart.
@@ -82,7 +82,7 @@ We asked the participants to complete the same exact tasks on the competitor app
 Following the competitive test, we conducted an exit interview with each participant to learn what they expect to see in a food delivery app and how they define their ideal app.
 \
 \
-\
+
 **Design Principles:** Based on what we had learned along the research, we put together a presentation for the BiteSquad on points users had the most difficulty, and  suggested six main design solutions
 
 * Adding pictures for each restaurant; or clustering restaurants featuring pictures (and those that do not) together.
@@ -91,9 +91,9 @@ Following the competitive test, we conducted an exit interview with each partici
 * Making “remove from cart” option easier to identify on the checkout screen.
 * Incorporating options for paying with PayPal or ApplePay.
 * Incorporating options for signing in directly via their FaceBook and/or Google accounts.
-  
-  
-  
+\
+\
+
 ## Outcome:
 This project is still in progress. Based on the insights from the research participants and suggestions from us, the BiteSquad leaders decided to incorporate the majority of the above-stated suggestions into the new interface. We can’t wait to see and test it.
 
