@@ -69,7 +69,7 @@ Based on the key insight of the survey, I decided to recruit individual working 
 
 > "A couple of days ago, someone told me that he did not pay the electricity bill for the last 26 years; he is not subscribed. I said 'where do you live, I want to move in there.'" –Interviewee A
 
-In agricultural sector, farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
+Farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
 
 > "I spent 15,000 TL to use groundwater for irrigation. I wish there had been no groundwater, for I would not have spent the money. When you do dry farming, if you get crops, you earn money. If you don’t, you will break even. Now with irrigated agriculture, we are always at a negative. They sent me an electricity bill of 8,000 TL. Even the personnel at the company were surprised to see how high my bill was." –Interviewee B
 
