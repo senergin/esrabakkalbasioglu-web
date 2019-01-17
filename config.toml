@@ -270,7 +270,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/EsraBakkalbasioglu_Resume_20190113.pdf"
+    link = "files/RESUME-Bakkalbasioglu.docx"
 
   [[params.social]]
     icon = "envelope"
