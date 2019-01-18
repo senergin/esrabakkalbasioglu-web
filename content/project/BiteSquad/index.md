@@ -48,25 +48,25 @@ url_code = ""
 \
 \
 ## Challenges:
-BiteSquad was about to launch in 200 new locations. Before this big step, they wanted to be sure that the new interface work as planned. They hadve specific usability questions but also wanted to evaluate design and usability of their app in comparison to the competitorother applications.
+BiteSquad was about to launch in multiple new locations. Before this big step, the product teams wanted to collect data on the way users perceive the app in comparison to other food delivery apps, gain insights for potential directions, and test some of the new features.
 \
 \
 \
 ## Process:
 
 ### 1. Automated Usability Testing
-I designed a remote automated usability test for the BiteSquad website on [usertesting.com](https://www.usertesting.com/dashboard#!/). The goal was to elicit information from these users about appeal and user-friendliness of the BiteSquad website in comparison to the competitor; which aspect of the BiteSquad website appeal them the most, would they prefer this service to the competitor?
+I designed a remote automated usability test on [usertesting.com](https://www.usertesting.com/dashboard#!/). The goal was to elicit information from users about appeal and user-friendliness of the website in comparison to the competitors; to understand which aspect of the BiteSquad website appeal them the most, and what do they like and not like about the interface?
 
-Participants have been given three different scenarios and asked to complete certain tasks designed based on the concerns and priorities of the BiteSquad design and engineering teams. I also asked them to complete the same tasks on the website of the competitor. All the process was video recorded. I analyzed the recording of the users and prepared a list of key points to be share with my co-researcher and the BiteSquad teams. Based on these initial findings, we made some changes on the tasks of moderated usability test.
+After answering a set of questions on design, participants have been given three different scenarios and asked to complete certain tasks designed based on the concerns and priorities of the product teams. I also asked them to complete the same tasks on a first-tier competitor’s website. Remote tests have been video recorded. I analyzed the recordings and prepared a list of key points to be shared with my co-researcher and shape the moderated test accordingly. Based on these initial findings, we made some changes on the questions we asked during the moderated usability test.
 
 [bite1]: https://i.ibb.co/sjMjjpW/1.jpg
 ![bite1]
 \
 
 ### 2. Moderated Usability Testing
-With the information collected from the automated usability test participants and design and engineering teams’ concerns, together with my co-researcher, we prepared a combined usability and competitive test for the BiteSquad IOS app that was recently developed. During the test, we recoded both voice and phone screen of the participants.
+Based on the insights from the product teams and information collected from the automated usability tests, my co-researcher and I, we prepared a combined usability and competitive test on the recently developed version of the app.
 
-We asked the participants to complete four different tasks including adding items to the cart, removing items from the cart, submit a complaint form, finding a specific food type or cuisine on the BiteSquad mobile app.
+Before the usability test, we conducted a pre-test interview with each participant to get details for the persona(s) and gather information on users’ eating and food ordering habits. We started by letting the participants to explore the app and ask them probing questions whenever appropriate. Then, we gave participants certain scenarios and asked to complete specific tasks, such as adding items to the cart, changing item details, and removing items from the cart. 
 
 [bite2]: https://i.ibb.co/xDyKRPc/2.jpg
 ![bite2]
@@ -77,28 +77,22 @@ We asked the participants to complete four different tasks including adding item
 
 > "There should be an option to change the number of items on your cart. Here there is only 'add more items' option." –Participant #2
 
-We asked the participants to complete the same exact tasks on the competitor app. We recorded their completion, mistake, and success rates. We also ask them to compare the two apps in every stage. 
+We asked participants to complete the same tasks on a competitor app. We recorded their completion, mistake, and success rates. We continued to ask them probing questions and encourage them to compare the two apps at every stage.
 
-Following the competitive test, we conducted an exit interview with each participant to learn what they expect to see in a food delivery app and how they define their ideal app.
+Following the competitive test, we conducted a post-test interview with each participant and encouraged them for a blue-sky brainstorming to get some insights on their overall experience and their concerns and expectations regarding food delivery apps. 
 \
 \
-
-**Design Principles:** Based on what we had learned along the research, we put together a presentation for the BiteSquad on points users had the most difficulty, and  suggested six main design solutions
-
-* Adding pictures for each restaurant; or clustering restaurants featuring pictures (and those that do not) together.
-* Differentiating “Recommended” filter from “Most Popular”.
-* Including distance or delivery time to the home screen and/or to distance filter.
-* Making “remove from cart” option easier to identify on the checkout screen.
-* Incorporating options for paying with PayPal or ApplePay.
-* Incorporating options for signing in directly via their FaceBook and/or Google accounts.
+\
+## Output:
+Based on what we had learned along the research, we put together a presentation with two sections. In the first section, we analyzed user pain points and suggested viable design solutions to resolve these issues. In the second section, we translated users’ comments into design ideas and suggested new directions for research and development. We went over the presentation and explained our findings and suggestions to the product teams at our final meeting and we also emailed them the powerpoint as a written guideline.
 \
 \
-
+\
 ## Outcome:
-This project is still in progress. Based on the insights from the research participants and suggestions from us, the BiteSquad leaders decided to incorporate the majority of the above-stated suggestions into the new interface. We can’t wait to see and test it.
+This project is still in progress. The product leaders decided to incorporate our suggestions into the new interface they are developing. I can’t wait to see the result and test it again.
 
-[bite3]: https://i.ibb.co/16fWStC/3.jpg
+[bite3]: https://i.ibb.co/k8hTTwx/BS2.jpg
 ![bite3]
 
-[bite4]: https://i.ibb.co/drtrWf2/4.jpg
+[bite4]: https://i.ibb.co/5Gjg6vs/BS1.jpg
 ![bite4]
