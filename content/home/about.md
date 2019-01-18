@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Interdisciplinary NME Studies "
+  course = "Ph.D. in Interdisciplinary NME Studies"
   institution = "University of Washington"
   year = 2019
 
