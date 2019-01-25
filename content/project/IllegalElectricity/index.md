@@ -99,12 +99,26 @@ I also visited the Research and Development Department of the regional electrici
 \
 \
 
-## Key Findings and Recommendations:
+## Key Findings:
+The state and the company have been searching the solution in the wrong place. Government would have more success by addressing the irrigation problem of farmers without access, rather than doubling down on preventive measures. 
+
 * A very high percentage of illegal electricity consumed in the Southeastern Anatolia region was consumed by farmers. 
 * The state-provided irrigation canals were distributed highly unequally in the region.
 * Farmers who do not have access to state irrigation canals use electricity illegally to pump up the deep groundwater and irrigate their crops.
 * Even though electricity distribution company tries to develop new measures to prevent illegal use, there is a need of state-level policy change for a long-term solution to the problem.
-* The state can reduce illegal access to electricity by:
-  * Distributing irrigation canals faster and more equally in the region
-  * Providing an electricity unit price discount to farmers
-  * Buying dry crops to a higher price to prevent the shift from dry to irrigated agriculture among the farmers who do not have access to irrigation canals.
+\
+\
+
+## Output:
+I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper op-eds, contact think-tanks in Turkey, and write policy reports on the subject after I defend my dissertation. 
+\
+\
+\
+
+## Outcome (Anticipated):
+
+A public policy change. Some of the potential measures to be implemented:
+
+* Distributing irrigation canals faster and more equally in the region
+* Providing an electricity unit price discount to farmers
+* Buying dry crops to a higher price to prevent the shift from dry to irrigated agriculture among the farmers who do not have access to irrigation canals.
