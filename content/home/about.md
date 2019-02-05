@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-I am a User Experience (UX) Researcher and a problem-solver. I currently work with startups and help them to design better products using my research insights.
+I am a User Experience (UX) Researcher with extended experinece in multi-leveled human-centered research and project management. I believe good research can change the world. 
 
-As a Ph.D. candidate at UW studying Anthropology/Political Science, I have single-handedly conducted various innovative research projects combining qualitative and quantitative methods. I am using the same precise critical thinking on my design research work.
+As a Ph.D. candidate at UW studying Anthropology/Political Science, I have conducted various innovative research projects combining qualitative and quantitative methods. I am using the same precise critical thinking when I conduct design research work.
 
-I have a long track record of project management, cross-team collaboration, partner-customer engagement, and ability to translate research to technical and non-technical stakeholders.
+I have a long track record of project management, customer engagement, cross-team collaboration across engineering, desing, business teams, and translating research findings and insights to technical and non-technical stakeholders.
