@@ -25,16 +25,16 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = "I am the listener. I design user-obsessed research projects and listen to the participants in every possible way, with my eyes, ears, and heart. "
+  description = "I am the listener. I design and conduct customer-obsessed research and listen to my research participants in every possible way, with my eyes, ears, and heart. "
   imageSrc = "https://i.ibb.co/PYJ31m8/listen.jpg"
 
 [[item]]
-  title = "Process"
+  title = "Translate"
   organization = ""
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "I am the translator between users and project teams. I use research as a medium to understand users’ painpoints, demands, and needs. I analyze the findings and turn them into viable design options."
+  description = "I am the translator between users and project teams. I understand users’ painpoints, demands, and needs and translate them into short and longterm roadmaps, recommendations, and viable design options."
   imageSrc = "https://i.ibb.co/4J9bGvh/process.jpg"
   
 [[item]]
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-07-01"
   date_end = ""
-  description = "I am the user ambassador. I advocate for users in my design suggestions. I follow up the process with the design and engineering teams."
+  description = "I am the user ambassador. I advocate for users in my insights and throughout the product life cycle. I support design, engineering and business teams at every stage of development."
   imageSrc = "https://i.ibb.co/mbSxSp3/advocate.jpg"
 
 +++
