@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "BiteSquad"
+title = "Bite Squad"
 
 # Date this page was created.
 date = 2018-12-10T00:00:00
