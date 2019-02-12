@@ -311,7 +311,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Selected Projects"
   url = "#projects"
   weight = 4
 
