@@ -48,30 +48,28 @@ url_code = ""
 \
 \
 ## Challenges:
-In the Southeastern region of Turkey, illegal electricity use was around 90 percent. Compared to around 15% country average, these figures trigger various questions on distribution and access to infrastructure in the region. In the past couple of years, electricity distribution company introduced new and harsher methods one after the other to stop illegal use of electricity in the region but failed. As my Ph.D. dissertation, I develop an ethnographic research project to understand the how and why people from the region use electricity illegally and develop policy suggestions to decrease high illegal energy consumption in the region.
+In the Southeastern region of Turkey, illegal electricity use is around 90 percent. Compared to around 15% country average, these figures trigger various questions on distribution and access to infrastructure in the region. In the past couple of years, electricity distribution company introduced new and harsher methods one after the other to stop illegal electricity use but failed. As part of my Ph.D. dissertation, I develop an ethnographic research aiming to understand how and why people from the region use electricity illegally and develop policy suggestions to decrease high illegal energy consumption.
 \
 \
 \
 ## Process:
 
 ### 1. Survey
-To get a snapshot of the composition, satisfaction, and values of electricity users in the region, I run a small-n survey with 30 participants. The survey covered both everyday electricity usage patterns as well as their thoughts on high illegal electricity consumption in the region. 
-The goal of the survey was to get an idea on the general usage trends as well as concerns and criticisms of users about provision of electricity.
+To get a snapshot of the composition, satisfaction, and values of electricity users in the region, I run a small-n survey with 30 participants. The survey covered both everyday electricity usage patterns as well as participants' thoughts on high illegal electricity consumption in the region. 
+The goal of the survey was to get an idea on the general usage trends as well as users' concerns and criticisms about state-led provision of electricity.
 
-**One of the Key Insights:** Participants pointed electricity use in agriculture as be the primary reason of extremely high illegal electricity consumption in the region.
+**One of the Key Insights:** Participants pointed electricity use in agriculture as the primary reason of extremely high illegal consumption in the region.
 \
 \
 \
 ### 2. Interviews with farmers
-Based on the key insight of the survey, I decided to recruit individual working in agricultural sector for in-depth interviews to get more insights on the problems and their suggestions to reduce illegality. I conducted interviews with more than 20 farmers owning small, mid-size, or large agricultural lands in the region. As illegal access to resources is a rather fragile topic rather than having a direct conversation on their illegal electricity use, I conducted an indirect interview on the subject. Talking about ‘other farmers’ illegal use of electricity’ made my respondents to feel more secure and comfortable to talk about this fragile issue. I asked them about type of crop they cultivate (dry or irrigated), irrigation patterns, any issue they encounter in terms of access to water, if they know anyone using electricity illegally, as well as they taught on the reasons of illegal electricity use in the region and their expectation from the state agents.
+Based on the survey's key insights, I recruited people working in agricultural sector for in-depth interviews to get more insights on the problem and potential solutions. I conducted interviews with more than 20 farmers owning small, mid-size, as well as large agricultural lands in the region. As illegal access to public resources is a fragile topic, rather than having a direct conversation on their own illegal electricity use, I conducted indirect interviews. Talking about ‘other farmers’ illegal use of electricity’ made my respondents feel comfortable and willing to talk. I also asked the participants about the crops they cultivate (dry or irrigated), irrigation patterns in the region, problems in irrigation and agriculture, as well as the reasons of high illegal electricity usage percentage in the region.
 
-**Key Insights:** While most illegal electricity use is for agricultural reasons, illegal access is widespread in both industry and everyday life, and this has been the case for decades.
+**Key Insights:** Farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
 
-> "A couple of days ago, someone told me that he did not pay the electricity bill for the last 26 years; he is not subscribed. I said 'where do you live, I want to move in there.'" –Interviewee A
+> "I spent 15,000 TL to use groundwater for irrigation. I wish there had been no groundwater, for I would not have spent the money. When you do dry farming, if you get crops, you earn money. If you don’t, you will break even. Now with irrigated agriculture, we are always at a negative. They sent me an electricity bill of 8,000 TL. Even the personnel at the company were surprised to see how high my bill was." –Interviewee A
 
-Farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
-
-> "I spent 15,000 TL to use groundwater for irrigation. I wish there had been no groundwater, for I would not have spent the money. When you do dry farming, if you get crops, you earn money. If you don’t, you will break even. Now with irrigated agriculture, we are always at a negative. They sent me an electricity bill of 8,000 TL. Even the personnel at the company were surprised to see how high my bill was." –Interviewee B
+> "A couple of days ago, someone told me that he did not pay the electricity bill for the last 26 years; he is not subscribed. I said 'where do you live, I want to move in there.'" –Interviewee B
 
 [electricity3]: https://i.ibb.co/xYj53n0/3.jpg
 ![electricity3]
@@ -79,17 +77,17 @@ Farmers use electricity illegally because it is very expensive to use legally du
 \
 
 ### 3. Interviews with Bureaucrats and Technocrats
-To test the accuracy of their claims against the state institutions, I conducted in-depth interviews with bureaucrats and technocrats located a) in the capital city and b) in the region. Interviewing the names responsible from electricity and irrigation water distribution policies and operations in the region made it possible to test my potential policy suggestions as well.
+To test the accuracy of farmers' statements against the state institutions, I also conducted in-depth interviews with bureaucrats and technocrats located a) in the capital city and b) in the research region. Interviewing the bureaucrats and technocrats distributing electricity and irrigation water and shaping policies in the region made it possible to test my potential policy suggestions as well.
 \
 \
 \
 
 ### 4. Field Visits
-I visited agricultural areas to learn from farmers how they hook up their illegal electricity connections to the grid system. How they pump water from the canals and underground.
+I visited agricultural areas to learn from farmers how they use electricity illegally. Many of the farmers hook up their illegal electricity connections to the national electric grid. If their land is close to a state-sponsored irrigation canal, they use motor pumps to illegally pump water from the state sponsored canals to their agricultural lands.
 
-I visited urban neighborhood with highest illegal household electricity use to gain information on changing access patterns between urban and rural areas.
+I visited urban neighborhood with highest illegal household electricity use to gain information on changing illegal usage patterns between urban and rural areas.
 
-I also visited the Research and Development Department of the regional electricity distribution company and get information on how they keep up with street-level meter-tempering technologies and see their new smart meters they develop to prevent illegal access.
+I also visited the Research and Development Department of the regional electricity distribution company. From technocrats working at the institutions, I got information on how they try to keep up with street-level meter-tempering technologies and see their new smart meters.
 
 [electricity1]: https://i.ibb.co/s5pBgxt/1.jpg
 ![electricity1]
@@ -100,9 +98,9 @@ I also visited the Research and Development Department of the regional electrici
 \
 
 ## Key Findings:
-The state and the company have been searching the solution in the wrong place. Government would have more success by addressing the irrigation problem of farmers without access, rather than doubling down on preventive measures. 
+The state and the electricity distribution company have been searching the solution in the wrong place. They would have more success by addressing the irrigation problem of farmers without access, rather than doubling down on preventive measures. 
 
-* A very high percentage of illegal electricity consumed in the Southeastern Anatolia region was consumed by farmers. 
+* A very high percentage of illegal electricity consumed in the Southeastern Anatolia region of Turkey was consumed by farmers. 
 * The state-provided irrigation canals were distributed highly unequally in the region.
 * Farmers who do not have access to state irrigation canals use electricity illegally to pump up the deep groundwater and irrigate their crops.
 * Even though electricity distribution company tries to develop new measures to prevent illegal use, there is a need of state-level policy change for a long-term solution to the problem.
@@ -117,8 +115,8 @@ I turned my findings into more than 10 conference papers, 4 public talks, and 2 
 
 ## Outcome (Anticipated):
 
-A public policy change. Some of the potential measures to be implemented:
+A public policy change. Some of the potential measures that can be implemented:
 
-* Distributing irrigation canals faster and more equally in the region
-* Providing an electricity unit price discount to farmers
-* Buying dry crops to a higher price to prevent the shift from dry to irrigated agriculture among the farmers who do not have access to irrigation canals.
+* Distributing irrigation canals faster and more equally in the region.
+* Providing an electricity unit price discount to farmers.
+* Buying dry crops to a higher price to slow down the shift from dry to irrigated agriculture among farmers without legal access to irrigation canals.
