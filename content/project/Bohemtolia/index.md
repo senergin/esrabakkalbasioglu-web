@@ -6,7 +6,7 @@ title = "Bohemtolia"
 date = 2017-02-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Understanding Online Shopping Customers"
+summary = "Measuring Online Shopping Preferences"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,79 +44,60 @@ url_code = ""
   focal_point = "TopLeft"
 +++
 
-# Understanding Online Shopping Customers
+# Surveying Preferences, Habits, and Concerns of Online Shopping Customers
 \
 \
 ## Challenges:
-In the Southeastern region of Turkey, illegal electricity use is around 90 percent. Compared to around 15% country average, these figures trigger various questions on distribution and access to infrastructure in the region. In the past couple of years, electricity distribution company introduced new and harsher methods one after the other to stop illegal electricity use but failed. As part of my Ph.D. dissertation, I develop an ethnographic research aiming to understand how and why people from the region use electricity illegally and develop policy suggestions to decrease high illegal energy consumption.
+Bohemtolia, a shopping website for home decor items, was about to make changes on their website interface to increase their sale. Before takign any step, they wanted to make sure that this is the right step to take. 
 \
 \
 \
 ## Process:
 
-### 1. Survey
-To get a snapshot of the composition, satisfaction, and values of electricity users in the region, I run a small-n survey with 30 participants. The survey covered both everyday electricity usage patterns as well as participants' thoughts on high illegal electricity consumption in the region. 
-The goal of the survey was to get an idea on the general usage trends as well as users' concerns and criticisms about state-led provision of electricity.
-
-**One of the Key Insights:** Participants pointed electricity use in agriculture as the primary reason of extremely high illegal consumption in the region.
+### 1. Analysis of Log Data
+During our meetings, it turned out to be that the Bohemtolia team was not sure if their lower than anticipated sale level was the result of a usability issue or something else. To clarify the situation, I checked their google analytics data and prepared a report to the shared with the customer. The report clarified that the website did not have a serious usability issue.
 \
 \
-\
-### 2. Interviews with farmers
-Based on the survey's key insights, I recruited people working in agricultural sector for in-depth interviews to get more insights on the problem and potential solutions. I conducted interviews with more than 20 farmers owning small, mid-size, as well as large agricultural lands in the region. As illegal access to public resources is a fragile topic, rather than having a direct conversation on their own illegal electricity use, I conducted indirect interviews. Talking about ‘other farmers’ illegal use of electricity’ made my respondents feel comfortable and willing to talk. I also asked the participants about the crops they cultivate (dry or irrigated), irrigation patterns in the region, problems in irrigation and agriculture, as well as the reasons of high illegal electricity usage percentage in the region.
+**Key Insights:** 
 
-**Key Insights:** Farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
+* Visitor flow around the website was stable. There was no high drop out from any one of the pages. It was considerably easy to navigate in the website.
+* Even though there was a high bounce rate, the visitors that do not close the website immediately were spending a good amount of time checking various collections and items on the website.
 
-> "I spent 15,000 TL to use groundwater for irrigation. I wish there had been no groundwater, for I would not have spent the money. When you do dry farming, if you get crops, you earn money. If you don’t, you will break even. Now with irrigated agriculture, we are always at a negative. They sent me an electricity bill of 8,000 TL. Even the personnel at the company were surprised to see how high my bill was." –Interviewee A
-
-> "A couple of days ago, someone told me that he did not pay the electricity bill for the last 26 years; he is not subscribed. I said 'where do you live, I want to move in there.'" –Interviewee B
+Based on the findings that the website did not have a serious usability issue, we decided to focus more on potential customers' online shopping preferences, concerns, and habits. To gain insights on these areas, we decided to design a survey that would be launched in Turkey and the United States, the countries from where the website had the highest number of visitors. 
 
 [electricity3]: https://i.ibb.co/xYj53n0/3.jpg
 ![electricity3]
 \
 \
 
-### 3. Interviews with Bureaucrats and Technocrats
-To test the accuracy of farmers' statements against the state institutions, I also conducted in-depth interviews with bureaucrats and technocrats located a) in the capital city and b) in the research region. Interviewing the bureaucrats and technocrats distributing electricity and irrigation water and shaping policies in the region made it possible to test my potential policy suggestions as well.
+### 2. Survey Brainstorming
+During our survey brainstorming meetings with Bohemtolia team, we come with with a list of potential issue area that the team want to learn more about in order the shape their mnarketing strategies accordingly. I conducted an online research on which ones of these issue areas to eliminate the ones that have been answered in previous "online shopping trends" surveys conducted with similar target audiences. After eliminated the areas for which we already have the answers, we came up with three areas that were crucial for Bohemtolia to shape its strategy and were not answered by previous surveys and research.
+
+[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
+![electricity3]
 \
 \
-\
 
-### 4. Field Visits
-I visited agricultural areas to learn from farmers how they use electricity illegally. Many of the farmers hook up their illegal electricity connections to the national electric grid. If their land is close to a state-sponsored irrigation canal, they use motor pumps to illegally pump water from the state sponsored canals to their agricultural lands.
+### 3. Survey Preparation and Launch
+As this was an online survey, I decided to ask only ten questions including the demographics questions to increase the completion rate as much as possible. I prepared an identical survey in English and Turkish on qualtrics and we launched both survey in the same month.  
 
-I visited urban neighborhood with highest illegal household electricity use to gain information on changing illegal usage patterns between urban and rural areas.
-
-I also visited the Research and Development Department of the regional electricity distribution company. From technocrats working at the institutions, I got information on how they try to keep up with street-level meter-tempering technologies and see their new smart meters.
-
-[electricity1]: https://i.ibb.co/s5pBgxt/1.jpg
-![electricity1]
-
-[electricity2]: https://i.ibb.co/xg74QpF/2.jpg
-![electricity2]
+[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
+![electricity3]
 \
 \
 
 ## Key Findings:
-The state and the electricity distribution company have been searching the solution in the wrong place. They would have more success by addressing the irrigation problem of farmers without access, rather than doubling down on preventive measures. 
 
-* A very high percentage of illegal electricity consumed in the Southeastern Anatolia region of Turkey was consumed by farmers. 
-* The state-provided irrigation canals were distributed highly unequally in the region.
-* Farmers who do not have access to state irrigation canals use electricity illegally to pump up the deep groundwater and irrigate their crops.
-* Even though electricity distribution company tries to develop new measures to prevent illegal use, there is a need of state-level policy change for a long-term solution to the problem.
+* A 
+
 \
 \
 
 ## Output:
-I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper op-eds, contact think-tanks in Turkey, and write policy reports on the subject after I defend my dissertation. 
+kke;ak;
 \
 \
 \
 
-## Outcome (Anticipated):
-
-A public policy change. Some of the potential measures that can be implemented:
-
-* Distributing irrigation canals faster and more equally in the region.
-* Providing an electricity unit price discount to farmers.
-* Buying dry crops to a higher price to slow down the shift from dry to irrigated agriculture among farmers without legal access to irrigation canals.
+## Outcome:
+JHSKHDLhkla

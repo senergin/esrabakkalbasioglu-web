@@ -6,7 +6,7 @@ title = "Infrastructure Workarounds in Israel"
 date = 2017-02-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Understanding Electricity and Water Workarounds"
+summary = "Researching Electricity and Water Workarounds"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -48,75 +48,40 @@ url_code = ""
 \
 \
 ## Challenges:
-In the Southeastern region of Turkey, illegal electricity use is around 90 percent. Compared to around 15% country average, these figures trigger various questions on distribution and access to infrastructure in the region. In the past couple of years, electricity distribution company introduced new and harsher methods one after the other to stop illegal electricity use but failed. As part of my Ph.D. dissertation, I develop an ethnographic research aiming to understand how and why people from the region use electricity illegally and develop policy suggestions to decrease high illegal energy consumption.
+In the Negev region of Israel, the state agencies have been refusing to provide electricity and water infrastructure to Arab Bedouin villages arguing that the Bedouin villages are illegal settlements. For a longtime, politicians expected that the Bedouin would evacuate the villages due to their lack of access to basic public infrastructure systems. Yet the Bedouin community living in the Negev region continued to stay in the region. While this could be partly explained by the resilient nature of the Bedouin community, it was the result of workarounds the Bedouin developed to bypassed the state power and access to the denied resources by their own means. As part of my Ph.D. research, I conducted an ethnographic research among the Bedouin to understand the workarounds they use, how they share knowledge on them and define their actions in relation to state power. 
 \
 \
 \
 ## Process:
 
-### 1. Survey
-To get a snapshot of the composition, satisfaction, and values of electricity users in the region, I run a small-n survey with 30 participants. The survey covered both everyday electricity usage patterns as well as participants' thoughts on high illegal electricity consumption in the region. 
-The goal of the survey was to get an idea on the general usage trends as well as users' concerns and criticisms about state-led provision of electricity.
-
-**One of the Key Insights:** Participants pointed electricity use in agriculture as the primary reason of extremely high illegal consumption in the region.
-\
-\
-\
-### 2. Interviews with farmers
-Based on the survey's key insights, I recruited people working in agricultural sector for in-depth interviews to get more insights on the problem and potential solutions. I conducted interviews with more than 20 farmers owning small, mid-size, as well as large agricultural lands in the region. As illegal access to public resources is a fragile topic, rather than having a direct conversation on their own illegal electricity use, I conducted indirect interviews. Talking about ‘other farmers’ illegal use of electricity’ made my respondents feel comfortable and willing to talk. I also asked the participants about the crops they cultivate (dry or irrigated), irrigation patterns in the region, problems in irrigation and agriculture, as well as the reasons of high illegal electricity usage percentage in the region.
-
-**Key Insights:** Farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
-
-> "I spent 15,000 TL to use groundwater for irrigation. I wish there had been no groundwater, for I would not have spent the money. When you do dry farming, if you get crops, you earn money. If you don’t, you will break even. Now with irrigated agriculture, we are always at a negative. They sent me an electricity bill of 8,000 TL. Even the personnel at the company were surprised to see how high my bill was." –Interviewee A
-
-> "A couple of days ago, someone told me that he did not pay the electricity bill for the last 26 years; he is not subscribed. I said 'where do you live, I want to move in there.'" –Interviewee B
+### 1. Field Visits
+I visited multiple villages to which state agents refuse to provide electricity and/or water infrastructure. During these visits, I learned from villagers how they set up their photovaltaic solar panels and produce electricity, how they pump water from connection points to their villages, how they carry water through above-ground water hoses, how they secure the hoses, how they distribute the resource and keep trace of household usage. It turned out to be that While some villagers set up simple solar panel systems, some others build highly complex structures to heat water, recycle the waste water, and irrigate the plants on their cbackyards. 
 
 [electricity3]: https://i.ibb.co/xYj53n0/3.jpg
 ![electricity3]
 \
 \
+### 2. Interviews with villagers
+Following each field visit, I conducted interviews with the villagers to understand politicial, social, and economic reasons of their preferences of setting up these structures rather than accepting the state proposal of relocation. I also asked them about their concerns, needs, and demands from the state and what would be the detail solution for them to drop their current workarounds.
 
-### 3. Interviews with Bureaucrats and Technocrats
-To test the accuracy of farmers' statements against the state institutions, I also conducted in-depth interviews with bureaucrats and technocrats located a) in the capital city and b) in the research region. Interviewing the bureaucrats and technocrats distributing electricity and irrigation water and shaping policies in the region made it possible to test my potential policy suggestions as well.
-\
-\
-\
+**Key Insights:** The workarounds were the only way for the Bedouin villagers to meet their minimum needs and stay in villages to defend their right to the land. 
 
-### 4. Field Visits
-I visited agricultural areas to learn from farmers how they use electricity illegally. Many of the farmers hook up their illegal electricity connections to the national electric grid. If their land is close to a state-sponsored irrigation canal, they use motor pumps to illegally pump water from the state sponsored canals to their agricultural lands.
+> "Solar panels are things that saved the Bedouin’s life and it is a very strong political message. Even though you don’t give us electricity, we do have electricity, we can generate it. Even though you don’t give us electricity, Bedouins can keep struggling..." –Interviewee A
 
-I visited urban neighborhood with highest illegal household electricity use to gain information on changing illegal usage patterns between urban and rural areas.
+> "The struggle is kind of a principle thing in the unrecognized [Bedouin] villages. Otherwise, no one would accept to live under the circumstances the Bedouin lives, even in the best unrecognized village [which are the ones with solar panels]... They [the Bedouin] got at this point that they cannot go back anymore. They cannot settle for less than what they ask for." –Interviewee B
 
-I also visited the Research and Development Department of the regional electricity distribution company. From technocrats working at the institutions, I got information on how they try to keep up with street-level meter-tempering technologies and see their new smart meters.
-
-[electricity1]: https://i.ibb.co/s5pBgxt/1.jpg
-![electricity1]
-
-[electricity2]: https://i.ibb.co/xg74QpF/2.jpg
-![electricity2]
-\
-\
-
-## Key Findings:
-The state and the electricity distribution company have been searching the solution in the wrong place. They would have more success by addressing the irrigation problem of farmers without access, rather than doubling down on preventive measures. 
-
-* A very high percentage of illegal electricity consumed in the Southeastern Anatolia region of Turkey was consumed by farmers. 
-* The state-provided irrigation canals were distributed highly unequally in the region.
-* Farmers who do not have access to state irrigation canals use electricity illegally to pump up the deep groundwater and irrigate their crops.
-* Even though electricity distribution company tries to develop new measures to prevent illegal use, there is a need of state-level policy change for a long-term solution to the problem.
 \
 \
 
 ## Output:
-I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper op-eds, contact think-tanks in Turkey, and write policy reports on the subject after I defend my dissertation. 
+I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper articles and cooperate with the NGOs working in the region for turning my findings into a report after the dissertation defense. 
 \
 \
 \
 
 ## Outcome (Anticipated):
 
-A public policy change. Some of the potential measures that can be implemented:
+The workarounds suggest urgency of a change in state policy in the region. Some of the potential measures that can be implemented:
 
-* Distributing irrigation canals faster and more equally in the region.
-* Providing an electricity unit price discount to farmers.
-* Buying dry crops to a higher price to slow down the shift from dry to irrigated agriculture among farmers without legal access to irrigation canals.
+* Distributing infrastructure more equally in the region.
+* Seperation of land discussions from infrastructure provision policies at the state level.

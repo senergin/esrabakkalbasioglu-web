@@ -65,7 +65,7 @@ The goal of the survey was to get an idea on the general usage trends as well as
 ### 2. Interviews with farmers
 Based on the survey's key insights, I recruited people working in agricultural sector for in-depth interviews to get more insights on the problem and potential solutions. I conducted interviews with more than 20 farmers owning small, mid-size, as well as large agricultural lands in the region. As illegal access to public resources is a fragile topic, rather than having a direct conversation on their own illegal electricity use, I conducted indirect interviews. Talking about ‘other farmers’ illegal use of electricity’ made my respondents feel comfortable and willing to talk. I also asked the participants about the crops they cultivate (dry or irrigated), irrigation patterns in the region, problems in irrigation and agriculture, as well as the reasons of high illegal electricity usage percentage in the region.
 
-**Key Insights:** Farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
+**One of the Key Insights:** Farmers use electricity illegally because it is very expensive to use legally due to high volume they consume and the lack of any discount.
 
 > "I spent 15,000 TL to use groundwater for irrigation. I wish there had been no groundwater, for I would not have spent the money. When you do dry farming, if you get crops, you earn money. If you don’t, you will break even. Now with irrigated agriculture, we are always at a negative. They sent me an electricity bill of 8,000 TL. Even the personnel at the company were surprised to see how high my bill was." –Interviewee A
 
