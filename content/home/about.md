@@ -59,4 +59,4 @@ Below you can find some of the testimonies from my partners and customers.
 
 **David Oh, Senior Product Manager at T-Mobile** 
 
-> "I was very impressed with her project management and research skills and her passion for the successful completion of multiple mission critical IOT projects. I would like to work with her again.” 
+> "I was very impressed with her project management and research skills and her passion for the successful completion of multiple mission critical IOT projects. I would like to work with her again.”
