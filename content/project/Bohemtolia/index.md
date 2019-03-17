@@ -6,7 +6,7 @@ title = "Bohemtolia"
 date = 2017-02-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Measuring Online Shopping Preferences"
+summary = "Customer Preferences and Concerns Survey"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,60 +44,65 @@ url_code = ""
   focal_point = "TopLeft"
 +++
 
-# Surveying Preferences, Habits, and Concerns of Online Shopping Customers
+# Customer Preferences and Concerns Survey for Home Decor Brand Website 
 \
 \
 ## Challenges:
-Bohemtolia, a shopping website for home decor items, was about to make changes on their website interface to increase their sale. Before takign any step, they wanted to make sure that this is the right step to take. 
+Bohemtolia, a home decor brand website, was about to make changes on their website interface to increase their sale. Before taking any step, they wanted to make sure that this is the right thing to do. 
 \
 \
 \
 ## Process:
 
-### 1. Analysis of Log Data
-During our meetings, it turned out to be that the Bohemtolia team was not sure if their lower than anticipated sale level was the result of a usability issue or something else. To clarify the situation, I checked their google analytics data and prepared a report to the shared with the customer. The report clarified that the website did not have a serious usability issue.
-\
-\
-**Key Insights:** 
+### 1. Log Data Analysis
+During our meetings, it turned out to be that the Bohemtolia team was not sure if their lower than anticipated sale level was the result of a usability issue or not. To understand if the low conversion is a usability-related problem, I checked their google analytics data and prepared a report underlying their strengths and weaknesses.
 
-* Visitor flow around the website was stable. There was no high drop out from any one of the pages. It was considerably easy to navigate in the website.
-* Even though there was a high bounce rate, the visitors that do not close the website immediately were spending a good amount of time checking various collections and items on the website.
+\
+**Key Findings:** 
 
-Based on the findings that the website did not have a serious usability issue, we decided to focus more on potential customers' online shopping preferences, concerns, and habits. To gain insights on these areas, we decided to design a survey that would be launched in Turkey and the United States, the countries from where the website had the highest number of visitors. 
+* Visitor flow around the website was high and diverse. There was no high drop out from any one of the pages. The website was considerably easy to navigate. Visitors were spending a good amount of time checking various collections.
+
+* Yet there was a high bounce rate and low conversion rate.
+
+Based on these findings we concluded that usability was not the first concern. We decided to focus more on potential customers' online shopping preferences, concerns, and habits to make according changes to cater their needs. To gain insights on these areas, I decided to design an online survey. 
 
 [electricity3]: https://i.ibb.co/xYj53n0/3.jpg
 ![electricity3]
 \
-\
-
 ### 2. Survey Brainstorming
-During our survey brainstorming meetings with Bohemtolia team, we come with with a list of potential issue area that the team want to learn more about in order the shape their mnarketing strategies accordingly. I conducted an online research on which ones of these issue areas to eliminate the ones that have been answered in previous "online shopping trends" surveys conducted with similar target audiences. After eliminated the areas for which we already have the answers, we came up with three areas that were crucial for Bohemtolia to shape its strategy and were not answered by previous surveys and research.
+During our survey brainstorming meetings with Bohemtolia team, we come with with a list of potential questions. I conducted an online market research to eliminate the questions that already have answers. Based on the log data, market research, and brainstroming session, I shortened the question list and issue areas. 
 
 [electricity3]: https://i.ibb.co/xYj53n0/3.jpg
 ![electricity3]
-\
 \
 
 ### 3. Survey Preparation and Launch
-As this was an online survey, I decided to ask only ten questions including the demographics questions to increase the completion rate as much as possible. I prepared an identical survey in English and Turkish on qualtrics and we launched both survey in the same month.  
+I prepared a 10-questions online survey on Qualtrics (I initially prepared the survey both on Qualtrics (https://www.qualtrics.com) and Survey Monkey (https://www.surveymonkey.com) but ultimately decided to preceed with Qualtrics). 
+
+Following the demographic questions, the survey focused three issue areas: General online shopping preferences, online home decor shopping preferences, and online home decor shopping concerns. 
+
+We decided to launch the survey in Turkish for potential customers in Turkey and in English for potential customers Europe and the United States. The survey in Turkish has been launched and completed by 131 participants in mid-April 2019. The survey in English is in preparation.
 
 [electricity3]: https://i.ibb.co/xYj53n0/3.jpg
 ![electricity3]
-\
 \
 
 ## Key Findings:
 
-* A 
-
+* Bohemtolia's products are not in high demand among online home decoration shoppers. 
+* Participants like shooping from brand websites if it is promoted by a friend or have an ad on a trusted website. 
+* Participants are most worried about quality, size, and color of the home decor products they buy online.
 \
 \
 
 ## Output:
-kke;ak;
+Results from the survey in Turkish pointed 3 main issue areas for Bohemtolia to focus. I prepared and shared with Bohemtolia team a powerpoint presentation showing the data distributions, three main findings, and my initial suggestions. These suggestions will be updated based on the findings of the survey that is currently conducted. 
 \
 \
 \
 
 ## Outcome:
-JHSKHDLhkla
+This project is in progress. Based on the first round of data, Bohemtolia team wants to make some marketing and website interface changes. However, we wait for the completion of the second survey before decide which ones of the changes should be prioritized.
+\
+\
+\

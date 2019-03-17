@@ -35,17 +35,15 @@ weight = 5
 
 # Biography
 
-I am a User Experience (UX) Researcher with extended experinece in multi-leveled human-centered research and project management. I believe good research can change the world. 
+I am a User Experience (UX) Researcher with extended experience in multi-leveled human-centered research and project management. I believe good research can change the world. 
 
-As a Ph.D. candidate at UW studying Anthropology/Political Science, I have conducted various innovative research projects combining qualitative and quantitative methods. I am using the same precise critical thinking when I conduct design research work.
-
-I have a long track record of project management, customer engagement, cross-team collaboration across engineering, desing, business teams, and translating research findings and insights to technical and non-technical stakeholders. 
+I have conducted various innovative research projects combining qualitative and quantitative methods, including moderated and automated usability testings, surveys, interviews, and field visits. On top of my expertise in research, I have professional project management experience and a long track record of customer engagement, cross-team collaboration, and technical and non-technical communication. 
 
 Below you can find some of the testimonies from my partners and customers.
 \
 \
 \
-# Recommendations
+# Testimonies:
 
 **Sal Habash, VP of product at Bite Squad** 
 
@@ -54,3 +52,11 @@ Below you can find some of the testimonies from my partners and customers.
 **Anthony Young, Principal Software Engineer at Bite Squad** 
 
 > "For Bite Squad, user experience is paramount. We wanted insight into how our customers were using our app, and ways to improve their experience. Esra and her team did a fantastic job conducting a usability study on our behalf. Their study was organized and thorough, which enabled us to confirm a handful of assumptions we made. But more importantly, their study shed light on a few pain points and usage patterns we did not expect! With this new data, we were able to revise the app, thereby improving the experience for our customers. We look forward to working with Esra again!"
+
+**Anthony Dashti, Senior Manager at T-Mobile** 
+
+> "Esra is a pleasure to work with and liked by anyone she interfaced with. In the short time she was with us, she made meaningful contributions and improved the process we continue to use today.” 
+
+**David Oh, Senior Product Manager at T-Mobile** 
+
+> "I was very impressed with her project management and research skills and her passion for the successful completion of multiple mission critical IOT projects. I would like to work with her again.” 

@@ -6,7 +6,7 @@ title = "Infrastructure Workarounds in Israel"
 date = 2017-02-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Researching Electricity and Water Workarounds"
+summary = "Infrastructure Research & Strategy"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,27 +44,28 @@ url_code = ""
   focal_point = "TopLeft"
 +++
 
-# Infrastructure Workarounds in Israel
+# Infrastructure Research & Strategy
 \
 \
 ## Challenges:
-In the Negev region of Israel, the state agencies have been refusing to provide electricity and water infrastructure to Arab Bedouin villages arguing that the Bedouin villages are illegal settlements. For a longtime, politicians expected that the Bedouin would evacuate the villages due to their lack of access to basic public infrastructure systems. Yet the Bedouin community living in the Negev region continued to stay in the region. While this could be partly explained by the resilient nature of the Bedouin community, it was the result of workarounds the Bedouin developed to bypassed the state power and access to the denied resources by their own means. As part of my Ph.D. research, I conducted an ethnographic research among the Bedouin to understand the workarounds they use, how they share knowledge on them and define their actions in relation to state power. 
+In the Negev region of Israel, the state agencies refuse to provide electricity and water infrastructure to Arab Bedouin villages arguing that the Bedouin villages are illegal settlements. For a longtime, politicians expected that the Bedouin would evacuate the villages due to their lack of access to basic public infrastructure systems. Yet the Bedouin did not evacuate. 
+
+While their refusal could be partly explained by resilience, it was made possible by various workarounds the Bedouin community developed to bypassed the state power and access the denied resources by their own means. As part of my Ph.D. dissertation, I conducted an ethnographic research to understand the workarounds the Bedouin use, how they share knowledge and discuss their resistance to state policies. 
 \
 \
 \
 ## Process:
 
 ### 1. Field Visits
-I visited multiple villages to which state agents refuse to provide electricity and/or water infrastructure. During these visits, I learned from villagers how they set up their photovaltaic solar panels and produce electricity, how they pump water from connection points to their villages, how they carry water through above-ground water hoses, how they secure the hoses, how they distribute the resource and keep trace of household usage. It turned out to be that While some villagers set up simple solar panel systems, some others build highly complex structures to heat water, recycle the waste water, and irrigate the plants on their cbackyards. 
+I visited multiple villages without electricity and/or water infrastructure. During these visits, I learned from villagers how they set up their photovoltaic solar panels and produce electricity, how they pump water from connection points to their villages, how they carry water through above-ground water hoses, how they secure the hoses, how they distribute the resource and keep trace of household usage. While some villagers had simple solar panel systems, some others built highly complex structures to heat water, recycle waste water, and irrigate plants. 
 
 [electricity3]: https://i.ibb.co/xYj53n0/3.jpg
 ![electricity3]
 \
-\
-### 2. Interviews with villagers
-Following each field visit, I conducted interviews with the villagers to understand politicial, social, and economic reasons of their preferences of setting up these structures rather than accepting the state proposal of relocation. I also asked them about their concerns, needs, and demands from the state and what would be the detail solution for them to drop their current workarounds.
+### 2. Interviews with Villagers
+I conducted interviews with 20+ villagers to understand political, social, and economic reasons why they set up these workaround structures rather than accepting the state's relocation proposal. I asked my respondents about their concerns, needs, and demands from the state.
 
-**Key Insights:** The workarounds were the only way for the Bedouin villagers to meet their minimum needs and stay in villages to defend their right to the land. 
+**Key Insights:** The workarounds were so developed that it was possible for the Bedouin to live in villages without depending on state's infrastructure provision and resist the relocation policies. 
 
 > "Solar panels are things that saved the Bedouin’s life and it is a very strong political message. Even though you don’t give us electricity, we do have electricity, we can generate it. Even though you don’t give us electricity, Bedouins can keep struggling..." –Interviewee A
 
@@ -72,16 +73,18 @@ Following each field visit, I conducted interviews with the villagers to underst
 
 \
 \
-
 ## Output:
-I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper articles and cooperate with the NGOs working in the region for turning my findings into a report after the dissertation defense. 
+I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper articles and cooperate with the NGOs working in the region after the dissertation defense. 
 \
 \
 \
 
 ## Outcome (Anticipated):
 
-The workarounds suggest urgency of a change in state policy in the region. Some of the potential measures that can be implemented:
+The workarounds suggest an urgent policy change in the region. Some of the potential measures that can be implemented are the followings:
 
 * Distributing infrastructure more equally in the region.
-* Seperation of land discussions from infrastructure provision policies at the state level.
+* Separation of land discussions from policies regarding infrastructure provision at the state level.
+\
+\
+\
