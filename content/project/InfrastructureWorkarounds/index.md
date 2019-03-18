@@ -3,7 +3,7 @@
 title = "Infrastructure Workarounds in Israel"
 
 # Date this page was created.
-date = 2017-02-25T00:00:00
+date = 2016-04-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Infrastructure Research & Strategy"
@@ -59,8 +59,11 @@ While their refusal could be partly explained by resilience, it was made possibl
 ### 1. Field Visits
 I visited multiple villages without electricity and/or water infrastructure. During these visits, I learned from villagers how they set up their photovoltaic solar panels and produce electricity, how they pump water from connection points to their villages, how they carry water through above-ground water hoses, how they secure the hoses, how they distribute the resource and keep trace of household usage. While some villagers had simple solar panel systems, some others built highly complex structures to heat water, recycle waste water, and irrigate plants. 
 
-[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
-![electricity3]
+[infrastructure1]: https://i.ibb.co/tKgNTNr/IMG-3134.jpg
+![infrastructure1]
+
+[infrastructure2]: https://i.ibb.co/DKyx7j5/IMG-3149.jpg
+![infrastructure2]
 \
 ### 2. Interviews with Villagers
 I conducted interviews with 20+ villagers to understand political, social, and economic reasons why they set up these workaround structures rather than accepting the state's relocation proposal. I asked my respondents about their concerns, needs, and demands from the state.
