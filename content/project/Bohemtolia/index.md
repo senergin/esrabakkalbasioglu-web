@@ -3,7 +3,7 @@
 title = "Bohemtolia"
 
 # Date this page was created.
-date = 2017-02-25T00:00:00
+date = 2019-02-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Customer Preferences and Concerns Survey"
@@ -66,25 +66,25 @@ During our meetings, it turned out to be that the Bohemtolia team was not sure i
 
 Based on these findings we concluded that usability was not the first concern. We decided to focus more on potential customers' online shopping preferences, concerns, and habits to make according changes to cater their needs. To gain insights on these areas, I decided to design an online survey. 
 
-[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
-![electricity3]
+[bohemtolia1]: https://i.ibb.co/dp68M2F/bohemtolia1.jpg
+![bohemtolia1]
 \
 ### 2. Survey Brainstorming
 During our survey brainstorming meetings with Bohemtolia team, we come with with a list of potential questions. I conducted an online market research to eliminate the questions that already have answers. Based on the log data, market research, and brainstroming session, I shortened the question list and issue areas. 
 
-[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
-![electricity3]
+[bohemtolia2]: https://i.ibb.co/G3zCP1h/bohemtolia2.jpg
+![bohemtolia2]
 \
 
 ### 3. Survey Preparation and Launch
-I prepared a 10-questions online survey on Qualtrics (I initially prepared the survey both on Qualtrics (https://www.qualtrics.com) and Survey Monkey (https://www.surveymonkey.com) but ultimately decided to preceed with Qualtrics). 
+I prepared a 10-questions online survey on Qualtrics (I initially prepared the survey both on [Qualtrics](https://www.qualtrics.com) and [SurveyMonkey](https://www.surveymonkey.com) but ultimately decided to preceed with Qualtrics). 
 
 Following the demographic questions, the survey focused three issue areas: General online shopping preferences, online home decor shopping preferences, and online home decor shopping concerns. 
 
 We decided to launch the survey in Turkish for potential customers in Turkey and in English for potential customers Europe and the United States. The survey in Turkish has been launched and completed by 131 participants in mid-April 2019. The survey in English is in preparation.
 
-[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
-![electricity3]
+[bohemtolia3]: https://i.ibb.co/thB0N4d/bohemtolia3.png
+![bohemtolia3]
 \
 
 ## Key Findings:
