@@ -105,7 +105,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "coffee"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -301,19 +301,24 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Selected Projects"
+  url = "#projects"
   weight = 2
-  
+
 [[menu.main]]
-  name = "Research Approach"
-  url = "#accomplishments"
+  name = "Testimonies"
+  url = "#testimonies"
   weight = 3
 
 [[menu.main]]
-  name = "Selected Projects"
-  url = "#projects"
+  name = "Experience"
+  url = "#experience"
   weight = 4
+  
+[[menu.main]]
+  name = "Research Approach"
+  url = "#approach"
+  weight = 5
 
 # [[menu.main]]
 #   name = "Publications"

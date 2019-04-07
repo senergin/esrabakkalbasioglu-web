@@ -8,7 +8,7 @@ title = "Selected Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 15
 
 # Content.
 # Display content from the following folder.
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+view = 2
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column

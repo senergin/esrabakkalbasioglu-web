@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 25
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -29,7 +29,7 @@ date_format = "January 2006"
   I align with engineering and design teams to define their needs and concerns. I turn their insights into research questions, choose the suitable methodology, plan the research budget and timeline. I recruit participants and lead research. My user experience research surface pain points and potential new approaches which I translate into actionable items and recommendations shared with my partners and customers. I follow-up with my partners evolution of each project to measure impact of my research. 
   """
 
-  [[experience]]
+[[experience]]
   title = "Research & Teaching Assistant"
   company = "University of Washington"
   company_url = ""
