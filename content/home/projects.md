@@ -3,6 +3,7 @@
 widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
+author = "Esra Bakkalbasioglu"
 
 title = "Selected Projects"
 subtitle = ""
