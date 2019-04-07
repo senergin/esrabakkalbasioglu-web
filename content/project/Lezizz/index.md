@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "TopLeft"
 +++
 
-# Food and Recipe Website Usability and Perception Study for Lezizz
+# Food and Recipe Website Usability and Perception Study
 \
 \
 ## Challenges:
