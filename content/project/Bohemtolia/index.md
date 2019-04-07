@@ -48,7 +48,7 @@ url_code = ""
 \
 \
 ## Challenges:
-Bohemtolia, a home decor brand website, was about to make changes on their website interface to increase their sale. Before taking any step, they wanted to make sure that this is the right thing to do. 
+[Bohemtolia] (https://bohemtolia.com/?lang=en), a home decor brand website, was about to make changes on their website interface to increase their sale. Before taking any step, they wanted to make sure that this is the right thing to do. 
 \
 \
 \
