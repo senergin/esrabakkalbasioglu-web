@@ -1,9 +1,12 @@
 +++
 # Project title.
 title = "Lezizz"
+author = "Esra Bakkalbasioglu"
 
 # Date this page was created.
 date = 2019-04-05T00:00:00
+
+keywords = "Esra Bakkalbasioglu lezizz hurriyet portfolio ux research user usability"
 
 # Project summary to display on homepage.
 summary = "Website Usability and Perception Study"
@@ -57,12 +60,12 @@ Turkish national newspaper Hurriyet's food and recipe website [Lezizz](http://ww
 ### 1. Moderated Remote and Face-to-Face Usability Study
 Together with the product team, we decided that the target audience for this recipe and food website would be people working or eager to try new recipes. Based on the insights from the product teams on the existing and targeted user demographics, I decided to recruit 5 participants (3 females and 2 males) working outside of home and having limited time to cook. The Lezizz website was only in Turkish. So I recruited participants from Turkey who would search for recipes in their native language. I also decided to strenghten my sample by recruiting participants from the Turkish expat community as they have considerably limited access to their family recipes and prefer to search Turkish recipes online very often. As I was located in the US, I recruited the expat participants from the US and conducted face-to-face usability and perception study. To schedule and conduct the remote moderated usability tests with the participants living in Turkey, I used [UberConference](https://www.uberconference.com).  
 
-[lezizz1]: https://i.ibb.co/4VnmdYb/Screen-Shot-2019-04-04-at-8-29-15-PM.png
+[lezizz1]: ./lezizz1.png
 ![lezizz1]
 
-At the beginning of each study, I conducted a pre-test interview with each participant to collect data on their recipe searching habits as well as their favorite recipe and food apps and websites. Following the initial interview, I gave them 3 seperate scenarios and ask to complete specific tasks such as finding a recipe on the website, searching for an article, and using recipe search engine to find appetizer recipes for their vegetarian guests. Throughout the study, I probed questions for participants to comment on different aspects of the website and asked their feedback on the design and user friendliness. 
+At the beginning of each study, I conducted a pre-test interview with each participant to collect data on their recipe searching habits as well as their favorite recipe and food apps and websites. Following the initial interview, I gave them 3 seperate scenarios and ask to complete specific tasks such as finding a recipe on the website, searching for an article, and using recipe search engine to find appetizer recipes for their vegetarian guests. Throughout the study, I probed questions for participants to comment on different aspects of the website and asked their feedback on the design and user friendliness.
 
-[lezizz2]: https://i.ibb.co/zXV3KjL/Screen-Shot-2019-04-03-at-5-12-43-PM.png
+[lezizz2]: lezizz2.png
 ![lezizz2]
 
 **One of the Key Insights:** Users find it hard to differentiate the tabs. 
@@ -76,9 +79,9 @@ Following the test, I conducted post-test interview with each participant to lea
 \
 \
 ## Output:
-Based on what I had learned along the study, I put together a detailed powerpoint presentation on the main usability problems and ways for making the website more appealing for the target audience. For each issue area, I underlined short and long-term solutions, suggested new directions for research to develop the new UI in a way that would satisfy the potential users and increase the session time and the number of returning visitors. 
+Based on what I had learned along the study, I put together a detailed powerpoint presentation on the main usability problems and ways for making the website more appealing for the target audience. For each issue area, I underlined short and long-term solutions, suggested new directions for research to develop the new UI in a way that would satisfy the potential users and increase the session time and the number of returning visitors.
 
-[lezizz3]: https://i.ibb.co/TbhMVjG/Lezizz-esraweb.jpg
+[lezizz3]: ./lezizz3.jpeg
 ![lezizz3]
 \
 ## Outcome:

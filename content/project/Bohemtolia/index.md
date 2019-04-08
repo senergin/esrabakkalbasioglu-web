@@ -1,9 +1,12 @@
 +++
 # Project title.
 title = "Bohemtolia"
+author = "Esra Bakkalbasioglu"
 
 # Date this page was created.
 date = 2019-02-01T00:00:00
+
+keywords = "Esra Bakkalbasioglu bohemtolia portfolio ux research user usability"
 
 # Project summary to display on homepage.
 summary = "Customer Preferences and Concerns Survey"
@@ -66,13 +69,13 @@ During our meetings, it turned out to be that the Bohemtolia team was not sure i
 
 Based on these findings we concluded that usability was not the first concern. We decided to focus more on potential customers' online shopping preferences, concerns, and habits to make according changes to cater their needs. To gain insights on these areas, I decided to design an online survey. 
 
-[bohemtolia1]: https://i.ibb.co/dp68M2F/bohemtolia1.jpg
+[bohemtolia1]: ./bohemtolia1.jpeg
 ![bohemtolia1]
 \
 ### 2. Survey Brainstorming
 During our survey brainstorming meetings with Bohemtolia team, we come with with a list of potential questions. I conducted an online market research to eliminate the questions that already have answers. Based on the log data, market research, and brainstroming session, I shortened the question list and issue areas. 
 
-[bohemtolia2]: https://i.ibb.co/G3zCP1h/bohemtolia2.jpg
+[bohemtolia2]: ./bohemtolia2.jpg
 ![bohemtolia2]
 \
 
@@ -83,7 +86,7 @@ Following the demographic questions, the survey focused three issue areas: Gener
 
 We decided to launch the survey in Turkish for potential customers in Turkey and in English for potential customers Europe and the United States. The survey in Turkish has been launched and completed by 131 participants in mid-April 2019. The survey in English is in preparation.
 
-[bohemtolia3]: https://i.ibb.co/thB0N4d/bohemtolia3.png
+[bohemtolia3]: ./bohemtolia3.png
 ![bohemtolia3]
 \
 

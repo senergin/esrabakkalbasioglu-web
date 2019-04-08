@@ -4,6 +4,10 @@ widget = "testimonies"
 active = true
 date = 2016-04-20T00:00:00
 
+author = "Esra Bakkalbasioglu"
+keywords = "Esra Bakkalbasioglu portfolio ux research user usability"
+summary = "Testimonies and recommendations from client and collegues."
+
 title = "Testimonies"
 
 # Order that this section will appear in.

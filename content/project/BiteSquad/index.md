@@ -1,6 +1,9 @@
 +++
 # Project title.
 title = "Bite Squad"
+author = "Esra Bakkalbasioglu"
+
+keywords = "Esra Bakkalbasioglu bitesquad portfolio ux research user usability"
 
 # Date this page was created.
 date = 2018-12-10T00:00:00
@@ -59,7 +62,7 @@ I designed a remote automated usability test on [usertesting.com](https://www.us
 
 After answering a set of questions on design, participants have been given 3 different scenarios and asked to complete certain tasks designed based on the concerns and priorities of the product teams. I also asked the participants to complete the same tasks on a first-tier competitor’s website. Remote tests have been video recorded. I analyzed the recordings and prepared a list of key points that shaped the moderated usability test. 
 
-[bite1]: https://i.ibb.co/sjMjjpW/1.jpg
+[bite1]: ./1.jpg
 ![bite1]
 \
 
@@ -70,7 +73,7 @@ We recruited 6 main and 1 test participants based on the targeted user demograph
 
 At the beginning of the usability test, we conducted a pre-test interview with each participant to collect data on user personas, gather information on potential users’ eating and food ordering habits. Following this initial interview, we gave participants the same 3 scenarios that were used at the automated usability test and ask them to complete specific tasks such as adding items to the cart, changing item details, and removing items from the cart. 
 
-[bite2]: https://i.ibb.co/xDyKRPc/2.jpg
+[bite2]: ./2.jpg
 ![bite2]
 
 **One of the Key Insights:** Users find it easy to add but hard to remove items from the cart.
@@ -93,10 +96,10 @@ Based on what we had learned along the research, we put together a presentation 
 ## Outcome:
 This project is still in progress. The product leaders decided to incorporate some of our suggestions into the new interface. I can’t wait to see the result and test it again.
 
-[bite3]: https://i.ibb.co/k8hTTwx/BS2.jpg
+[bite3]: ./BS2.jpeg
 ![bite3]
 
-[bite4]: https://i.ibb.co/5Gjg6vs/BS1.jpg
+[bite4]: ./BS1.jpeg
 ![bite4]
 \
 \

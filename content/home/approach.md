@@ -13,6 +13,10 @@ weight = 35
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
+author = "Esra Bakkalbasioglu"
+keywords = "Esra Bakkalbasioglu portfolio ux research user usability"
+summary = "What is Esra Bakkbalbasioglu's research approach and methods."
+
 # Approach.
 #   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.

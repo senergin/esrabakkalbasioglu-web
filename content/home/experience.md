@@ -13,6 +13,10 @@ weight = 25
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "January 2006"
 
+author = "Esra Bakkalbasioglu"
+keywords = "Esra Bakkalbasioglu portfolio ux research user usability"
+summary = "Work experience of Esra Bakkalbasioglu."
+
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
