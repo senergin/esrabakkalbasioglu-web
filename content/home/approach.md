@@ -15,6 +15,7 @@ date_format = "Jan 2006"
 
 author = "Esra Bakkalbasioglu"
 keywords = "Esra Bakkalbasioglu portfolio ux research user usability"
+summary = "What is Esra Bakkbalbasioglu's research approach and methods."
 
 # Approach.
 #   Add/remove as many `[[item]]` blocks below as you like.

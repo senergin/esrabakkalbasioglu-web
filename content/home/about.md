@@ -4,6 +4,10 @@ widget = "about"
 active = true
 date = 2016-04-20T00:00:00
 
+author = "Esra Bakkalbasioglu"
+keywords = "Esra Bakkalbasioglu portfolio ux research user usability"
+summary = "Esra Bakkalbasioglu, researcher specialized in user studies."
+
 # Order that this section will appear in.
 weight = 5
 
