@@ -22,6 +22,12 @@ weight = 16
   """
 
 [[item]]
+  author = "Gozde Benzet, Founder of Bohemtolia Home Decor Website"
+  description = """
+  Esra made a great work not only for our website but also for our stragetic planning. She widened our perspective by evaluating our briefing and directing us towards the most suitable research method. Thanks to her guidance and thorough finding analysis, we were able to determine the most important action items and take new steps to develop our brand and product.
+  """
+
+[[item]]
   author = "Anthony Dashti, Senior Manager at T-Mobile"
   description = """
   Esra is a pleasure to work with and liked by anyone she interfaced with. In the short time she was with us, she made meaningful contributions and improved the process we continue to use today.
