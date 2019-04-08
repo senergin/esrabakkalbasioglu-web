@@ -1,6 +1,7 @@
 +++
 # Project title.
 title = "Bite Squad"
+author = "Esra Bakkalbasioglu"
 
 keywords = "Esra Bakkalbasioglu bitesquad portfolio ux research user usability"
 

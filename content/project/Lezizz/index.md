@@ -1,6 +1,7 @@
 +++
 # Project title.
 title = "Lezizz"
+author = "Esra Bakkalbasioglu"
 
 # Date this page was created.
 date = 2019-04-05T00:00:00

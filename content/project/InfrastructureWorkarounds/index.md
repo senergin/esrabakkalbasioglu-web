@@ -1,6 +1,7 @@
 +++
 # Project title.
 title = "Infrastructure Workarounds in Israel"
+author = "Esra Bakkalbasioglu"
 
 # Date this page was created.
 date = 2016-04-01T00:00:00
