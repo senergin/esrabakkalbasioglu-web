@@ -50,7 +50,7 @@ url_code = ""
 \
 \
 ## Challenges:
-Bite Squad was about to launch in 200+ new locations. Before this big step, the product teams wanted to learn more about the usability of the new interface and how their target audience perceives their product in comparison to other food delivery apps. They wanted to gain insights for potential directions and test some of the new features.
+[Bite Squad] (https://www.bitesquad.com) was about to launch in 200+ new locations. Before this big step, the product teams wanted to learn more about the usability of the new interface and how their target audience perceives their product in comparison to other food delivery apps. They wanted to gain insights for potential directions and test some of the new features.
 \
 \
 \
