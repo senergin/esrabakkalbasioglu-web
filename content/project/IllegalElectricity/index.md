@@ -72,7 +72,7 @@ Based on the survey's key insights, I recruited people working in agricultural s
 
 > "A couple of days ago, someone told me that he did not pay the electricity bill for the last 26 years; he is not subscribed. I said 'where do you live, I want to move in there.'" –Interviewee B
 
-[electricity3]: https://i.ibb.co/xYj53n0/3.jpg
+[electricity3]: ./3.jpg
 ![electricity3]
 \
 
@@ -87,7 +87,7 @@ I visited agricultural areas to learn from farmers how they use electricity ille
 
 As the last stop of my field visits, I  went to the Research and Development Department of the regional electricity distribution company. From technocrats working at the institutions, I got information on how they try to keep up with street-level meter-tempering technologies and see their new smart meters and conducted follow-up interviews with more general questions on the high illegal electricity consumption in the region.
 
-[electricity1]: https://i.ibb.co/s5pBgxt/1.jpg
+[electricity1]: ./1.jpg
 ![electricity1]
 \
 
@@ -102,14 +102,14 @@ The state and the electricity distribution company have been searching the solut
 \
 
 ## Output:
-I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to contact think-tanks in Turkey and write policy reports on the subject after I defend my dissertation. 
+I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to contact think-tanks in Turkey and write policy reports on the subject after I defend my dissertation.
 \
 \
 \
 
 ## Outcome (Anticipated):
 
-Public policy change. 
+Public policy change.
 Some of the potential measures that can be implemented:
 
 * Further distribution of irrigation canals in the region.

@@ -61,10 +61,10 @@ While their refusal could be partly explained by resilience, it was made possibl
 ### 1. Field Visits
 I visited multiple villages without electricity and/or water infrastructure. During these visits, I learned from villagers how they set up their photovoltaic solar panels and produce electricity, how they pump water from connection points to their villages, how they carry water through above-ground water hoses, how they secure the hoses, how they distribute the resource and keep trace of household usage. While some villagers had simple solar panel systems, some others built highly complex structures to heat water, recycle waste water, and irrigate plants. 
 
-[infrastructure1]: https://i.ibb.co/tKgNTNr/IMG-3134.jpg
+[infrastructure1]: ./infrastructure1.jpg
 ![infrastructure1]
 
-[infrastructure2]: https://i.ibb.co/DKyx7j5/IMG-3149.jpg
+[infrastructure2]: ./infrastructure2.jpg
 ![infrastructure2]
 \
 ### 2. Interviews with Villagers
@@ -79,7 +79,7 @@ I conducted interviews with 20+ villagers to understand political, social, and e
 \
 \
 ## Output:
-I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper articles and cooperate with the NGOs working in the region after the dissertation defense. 
+I turned my findings into more than 10 conference papers, 4 public talks, and 2 academic articles. I plan to publish newspaper articles and cooperate with the NGOs working in the region after the dissertation defense.
 \
 \
 \
