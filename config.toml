@@ -55,6 +55,8 @@ enableGitInfo = false
   name = "Esra Bakkalbasioglu"
   role = "Qualitative Researcher Specialized in UX"
 
+  defaultKeywords = "Esra,Bakkalbasioglu,portfolio,ux,research,user,usability"
+
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Ph.D. Candidate, University of Washington", url = "" } ]

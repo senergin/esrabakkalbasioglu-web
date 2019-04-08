@@ -5,6 +5,8 @@ title = "Lezizz"
 # Date this page was created.
 date = 2019-04-05T00:00:00
 
+keywords = "Esra Bakkalbasioglu lezizz hurriyet portfolio ux research user usability"
+
 # Project summary to display on homepage.
 summary = "Usability and Perception Study"
 

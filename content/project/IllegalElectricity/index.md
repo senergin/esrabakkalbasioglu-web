@@ -5,6 +5,8 @@ title = "Illegal Electricity Use in Turkey"
 # Date this page was created.
 date = 2016-05-01T00:00:00
 
+keywords = "Esra Bakkalbasioglu infrastructure electricity portfolio field research"
+
 # Project summary to display on homepage.
 summary = "Infrastructure Research & Strategy"
 

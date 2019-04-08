@@ -14,6 +14,7 @@ weight = 35
 date_format = "Jan 2006"
 
 author = "Esra Bakkalbasioglu"
+keywords = "Esra Bakkalbasioglu portfolio ux research user usability"
 
 # Approach.
 #   Add/remove as many `[[item]]` blocks below as you like.

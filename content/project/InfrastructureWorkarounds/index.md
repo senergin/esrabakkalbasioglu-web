@@ -5,6 +5,8 @@ title = "Infrastructure Workarounds in Israel"
 # Date this page was created.
 date = 2016-04-01T00:00:00
 
+keywords = "Esra Bakkalbasioglu infrastructure electricity portfolio field research"
+
 # Project summary to display on homepage.
 summary = "Infrastructure Research & Strategy"
 

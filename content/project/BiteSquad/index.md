@@ -2,6 +2,8 @@
 # Project title.
 title = "Bite Squad"
 
+keywords = "Esra Bakkalbasioglu bitesquad portfolio ux research user usability"
+
 # Date this page was created.
 date = 2018-12-10T00:00:00
 

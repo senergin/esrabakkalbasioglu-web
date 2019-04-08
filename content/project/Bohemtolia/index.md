@@ -5,6 +5,8 @@ title = "Bohemtolia"
 # Date this page was created.
 date = 2019-02-01T00:00:00
 
+keywords = "Esra Bakkalbasioglu bohemtolia portfolio ux research user usability"
+
 # Project summary to display on homepage.
 summary = "Customer Preferences and Concerns Survey"
 

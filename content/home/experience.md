@@ -14,6 +14,7 @@ weight = 25
 date_format = "January 2006"
 
 author = "Esra Bakkalbasioglu"
+keywords = "Esra Bakkalbasioglu portfolio ux research user usability"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
