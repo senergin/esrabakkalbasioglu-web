@@ -100,9 +100,11 @@ We decided to launch the survey in Turkish for potential customers in Turkey and
 
 ## Output:
 Results from the two surveys pointed 3 main issue areas for Bohemtolia to focus: building trust, increasing the brand visibility, and targeting potential customers outside of Turkey. I prepared and shared with Bohemtolia team a powerpoint presentation showing the data distributions, the main findings, and my suggestions on how to achieve them. 
+
+[bohemtolia4]: ./bohemtolia4.png
+![bohemtolia4]
 \
-\
-\
+
 
 ## Outcome:
 Bohemtolia team started to shape their marketing and product line strategies accordingly. I look forward to seeing measurable impacts of the changes that started to be implemented in April 2019. 
