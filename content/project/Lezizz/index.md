@@ -51,7 +51,7 @@ url_code = ""
 \
 \
 ## Challenges:
-Turkish national newspaper Hurriyet's food and recipe website [Lezizz](http://www.hurriyet.com.tr/lezizz/) is launched in 2017. The website editors wanted to learn more about the usability of the existing interface and how their potential audience perceives their website before making further interface changes. 
+The product team of [Lezizz](http://www.hurriyet.com.tr/lezizz/) (Turkish national newspaper Hurriyet's food and recipe website)wanted to learn more about the usability of the existing interface and how their audience perceives their website before making further changes. 
 \
 \
 \

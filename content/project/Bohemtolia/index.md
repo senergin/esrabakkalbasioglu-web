@@ -84,7 +84,7 @@ I prepared a 10-questions online survey on Qualtrics (I initially prepared the s
 
 Following the demographic questions, the survey focused three issue areas: General online shopping preferences, online home decor shopping preferences, and online home decor shopping concerns. 
 
-We decided to launch the survey in Turkish for potential customers in Turkey and in English for potential customers Europe and the United States. The survey in Turkish has been launched and completed by 131 participants in mid-April 2019. The survey in English is in preparation.
+We decided to launch the survey in Turkish for potential customers in Turkey and in English for potential customers Europe and the United States. The survey in Turkish was completed by 131 participants in mid-March 2019 and the survey in English by 80 participants in early-April.  
 
 [bohemtolia3]: ./bohemtolia3.png
 ![bohemtolia3]
@@ -92,20 +92,20 @@ We decided to launch the survey in Turkish for potential customers in Turkey and
 
 ## Key Findings:
 
-* Bohemtolia's products are not in high demand among online home decoration shoppers. 
-* Participants like shooping from brand websites if it is promoted by a friend or have an ad on a trusted website. 
-* Participants are most worried about quality, size, and color of the home decor products they buy online.
+* Bohemtolia's products are not in high demand among online home decoration shoppers in Turkey but in demand in Europe and the United States. 
+* Online shoppers like shooping from brand websites if it is promoted by a friend or have an ad on a trusted website. Amazon is big in Europe and the US as a home decor shopping website but not in Turkey.
+* Everywhere, online shoppers are most worried about quality, size, and color of the home decor products they buy online.
 \
 \
 
 ## Output:
-Results from the survey in Turkish pointed 3 main issue areas for Bohemtolia to focus. I prepared and shared with Bohemtolia team a powerpoint presentation showing the data distributions, three main findings, and my initial suggestions. These suggestions will be updated based on the findings of the survey that is currently conducted. 
+Results from the two surveys pointed 3 main issue areas for Bohemtolia to focus: building trust, increasing the brand visibility, and targeting potential customers outside of Turkey. I prepared and shared with Bohemtolia team a powerpoint presentation showing the data distributions, the main findings, and my suggestions on how to achieve them. 
 \
 \
 \
 
 ## Outcome:
-This project is in progress. Based on the first round of data, Bohemtolia team wants to make some marketing and website interface changes. However, we wait for the completion of the second survey before decide which ones of the changes should be prioritized.
+Bohemtolia team started to shape their marketing and product line strategies accordingly. I look forward to seeing measurable impacts of the changes that started to be implemented in April 2019. 
 \
 \
 \
