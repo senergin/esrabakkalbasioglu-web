@@ -34,7 +34,7 @@ weight = 16
 [[item]]
   author = "Sevin Turan, Digital Food Content Manager at Hurriyet"
   description = """
-  Most of the time, what we have in mind as content providers does not match with what the audience perceives or expects to see on our sites. Esra helped us a great deal in bridging this gap. She was thorough and organized during the whole process. She was very insightful about our needs and incorporated our input into her research questions while in return providing us with very clear and applicable feedback. Anyone who has a chance to work with her will be very lucky and I am looking forward to benefit from her skills and work ethic again soon.
+  Most of the time, what we have in mind as website editors does not match with what the audience perceives or expects to see on our sites. Esra helped us a great deal in bridging this gap. She was thorough and organized during the whole process. She was very insightful about our needs and incorporated our input into her research questions while in return providing us with very clear and applicable feedback. Anyone who has a chance to work with her will be very lucky and I am looking forward to benefit from her skills and work ethic again soon.
   """
 
 [[item]]
